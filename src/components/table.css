@@ -1,0 +1,35 @@
+.table th
+{
+    border: 1px solid;   
+}
+.table 
+{
+    margin-left: 500px;
+}
+.controls
+{
+    margin-left: 500px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.controls >div
+{
+    margin-left: 20px;
+}
+
+.tbody div
+{
+    border: 1px solid black;
+}
+
+.togglebtn
+{
+    margin-left: 50%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.addstudent
+{
+    margin-left: 700px;
+}
